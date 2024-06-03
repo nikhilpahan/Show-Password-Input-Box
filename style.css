@@ -4,3 +4,13 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
+
+body{
+    background: #250057;
+}
+
+.input-box{
+    background: #fff;
+    width: 90%;max-width: 500px;
+    border-radius: 5px;
+}
